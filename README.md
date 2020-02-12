@@ -3,9 +3,11 @@ thebestkitchen
 프로젝트 일정 2020.01.31 ~ 2020.02.10
 
 Day1
+
 -데이터 수집 Reference Site 탐색
 
 Day2
+
 -요구사항명세서 작성, bootstrap template 탐색 
 
 Day3
